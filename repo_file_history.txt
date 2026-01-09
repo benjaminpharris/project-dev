@@ -1,0 +1,403 @@
+
+.gitignore
+API_Calls/APICalls/InflationControlAPICall.ipynb
+API_Calls/APICalls/Scripts/Activate.ps1
+API_Calls/APICalls/Scripts/activate
+API_Calls/APICalls/Scripts/activate.bat
+API_Calls/APICalls/Scripts/activate.fish
+API_Calls/APICalls/Scripts/deactivate.bat
+API_Calls/APICalls/Scripts/debugpy-adapter.exe
+API_Calls/APICalls/Scripts/debugpy.exe
+API_Calls/APICalls/Scripts/f2py.exe
+API_Calls/APICalls/Scripts/ipython.exe
+API_Calls/APICalls/Scripts/ipython3.exe
+API_Calls/APICalls/Scripts/jupyter-kernel.exe
+API_Calls/APICalls/Scripts/jupyter-kernelspec.exe
+API_Calls/APICalls/Scripts/jupyter-migrate.exe
+API_Calls/APICalls/Scripts/jupyter-run.exe
+API_Calls/APICalls/Scripts/jupyter-troubleshoot.exe
+API_Calls/APICalls/Scripts/jupyter.exe
+API_Calls/APICalls/Scripts/normalizer.exe
+API_Calls/APICalls/Scripts/numpy-config.exe
+API_Calls/APICalls/Scripts/pip.exe
+API_Calls/APICalls/Scripts/pip3.13.exe
+API_Calls/APICalls/Scripts/pip3.exe
+API_Calls/APICalls/Scripts/pygmentize.exe
+API_Calls/APICalls/Scripts/python.exe
+API_Calls/APICalls/Scripts/pythonw.exe
+API_Calls/APICalls/Scripts/pywin32_postinstall.exe
+API_Calls/APICalls/Scripts/pywin32_postinstall.py
+API_Calls/APICalls/Scripts/pywin32_testall.exe
+API_Calls/APICalls/Scripts/pywin32_testall.py
+API_Calls/APICalls/pyvenv.cfg
+API_Calls/APICalls/rents.csv
+API_Calls/APICalls/rents.txt
+API_Calls/APICalls/share/jupyter/kernels/python3/kernel.json
+API_Calls/APICalls/share/jupyter/kernels/python3/logo-32x32.png
+API_Calls/APICalls/share/jupyter/kernels/python3/logo-64x64.png
+API_Calls/APICalls/share/jupyter/kernels/python3/logo-svg.svg
+API_Calls/APICalls/share/man/man1/ipython.1
+API_Calls/Census_api_call.ipynb
+API_Calls/InflationControlAPICall.ipynb
+API_Calls/README.md
+API_Calls/RentDistributionPlot.ipynb
+API_Calls/RevenueModeling.ipynb
+API_Calls/growth_scenario_high.csv
+API_Calls/growth_scenario_high_updated.csv
+API_Calls/growth_scenario_low.csv
+API_Calls/growth_scenario_low_updated.csv
+API_Calls/growth_scenario_medium.csv
+API_Calls/growth_scenario_medium_updated.csv
+API_Calls/rents.csv
+API_Calls/rents.txt
+API_Calls/requirements.txt
+API_Calls/rhfs.csv
+Ad Hoc/API_Calls/InflationControlAPICall.ipynb
+Ad Hoc/API_Calls/README.md
+Ad Hoc/API_Calls/RentDistributionPlot.ipynb
+Ad Hoc/API_Calls/RevenueModeling.ipynb
+Ad Hoc/API_Calls/rents.txt
+Ad Hoc/API_Calls/requirements.txt
+Ad Hoc/AlgoTrade/API_Calls/InflationControlAPICall.ipynb
+Ad Hoc/AlgoTrade/API_Calls/README.md
+Ad Hoc/AlgoTrade/API_Calls/RentDistributionPlot.ipynb
+Ad Hoc/AlgoTrade/API_Calls/RevenueModeling.ipynb
+Ad Hoc/AlgoTrade/API_Calls/rents.txt
+Ad Hoc/AlgoTrade/API_Calls/requirements.txt
+Ad Hoc/AlgoTrade/BacktestPaperCode.ipynb
+Ad Hoc/AlgoTrade/IntradayReturns.png
+Ad Hoc/AlgoTrade/README.md
+Ad Hoc/AlgoTrade/ReturnExercise.ipynb
+Ad Hoc/AlgoTrade/Riingo_qTest.ipynb
+Ad Hoc/AlgoTrade/SPY_MA_Arb.ipynb
+Ad Hoc/AlgoTrade/TestR.ipynb
+Ad Hoc/AlgoTrade/requirements.txt
+Ad Hoc/AlgoTrade/state-space.ipynb
+Ad Hoc/Atlas Reporting/BacktestPaperCode.ipynb
+Ad Hoc/Atlas Reporting/GA_report.ipynb
+Ad Hoc/Atlas Reporting/Local Indirect Uplift/Competitive QBR.ipynb
+Ad Hoc/Atlas Reporting/Local Indirect Uplift/deprecated_snippets.ipynb
+Ad Hoc/Atlas Reporting/Local Indirect Uplift/snowflake_connect.ipynb
+Ad Hoc/Atlas Reporting/Local Indirect Uplift/snowflake_env.yml
+Ad Hoc/Atlas Reporting/QBR_Customer_Quality_Plot.ipynb
+Ad Hoc/Atlas Reporting/QBR_TimeSeries.ipynb
+Ad Hoc/Atlas Reporting/Snowflake_Import.ipynb
+Ad Hoc/Atlas Reporting/TWSQL.ipynb
+Ad Hoc/Atlas Reporting/dark_vibes.r
+Ad Hoc/Atlas Reporting/data/q42025_total_report.xlsx
+Ad Hoc/Atlas Reporting/q42025_by_day.ipynb
+Ad Hoc/Atlas Reporting/q42025_by_day_report.xlsx
+Ad Hoc/Atlas Reporting/total_report_q42025.xlsx
+Ad Hoc/FunctionalEstimation/README.md
+Ad Hoc/FunctionalEstimation/data/Boost_Media_Tables.xlsx
+Ad Hoc/FunctionalEstimation/data/Fonts/Montserrat-SemiBold.ttf
+Ad Hoc/FunctionalEstimation/notebooks/Media Modeling/OOH,DTR.ipynb
+Ad Hoc/FunctionalEstimation/notebooks/Media Modeling/analysis.ipynb
+Ad Hoc/FunctionalEstimation/notebooks/Media Modeling/econML_media.ipynb
+Ad Hoc/FunctionalEstimation/notebooks/Media Modeling/econml-metal-env.yml
+Ad Hoc/FunctionalEstimation/notebooks/Media Modeling/econml_env.yml
+Ad Hoc/FunctionalEstimation/notebooks/Media Modeling/metaltest.ipynb
+Ad Hoc/FunctionalEstimation/outputs/20250509_123542_9q5E3D/checkpoint.pkl
+Ad Hoc/FunctionalEstimation/outputs/20250509_123542_9q5E3D/hall_of_fame.csv.bak
+Ad Hoc/FunctionalEstimation/outputs/20250519_113941_9Fy5cE/checkpoint.pkl
+Ad Hoc/FunctionalEstimation/outputs/20250519_113941_9Fy5cE/hall_of_fame.csv.bak
+Ad Hoc/FunctionalEstimation/outputs/20250522_113634_fDi1pR/checkpoint.pkl
+Ad Hoc/FunctionalEstimation/outputs/20250522_113634_fDi1pR/hall_of_fame.csv.bak
+Ad Hoc/FunctionalEstimation/outputs/20250618_144844_4zsO6T/checkpoint.pkl
+Ad Hoc/FunctionalEstimation/outputs/20250618_144844_4zsO6T/hall_of_fame.csv.bak
+Ad Hoc/FunctionalEstimation/outputs/out_of_sample_viz_static.html
+Ad Hoc/FunctionalEstimation/src/PreProcessing.py
+Ad Hoc/FunctionalEstimation/src/data_preprocessing.py
+Ad Hoc/Local Indirect Uplift/Competitive QBR.ipynb
+Ad Hoc/Local Indirect Uplift/LocalUpliftV2.ipynb
+Ad Hoc/Local Indirect Uplift/deprecated_snippets.ipynb
+Ad Hoc/Local Indirect Uplift/snowflake_connect.ipynb
+Ad Hoc/Local Indirect Uplift/snowflake_env.yml
+Ad Hoc/Personal/AoC2025/Artifacts/Day1.txt
+Ad Hoc/Personal/AoC2025/Code/Day1.ipynb
+Ad Hoc/Personal/Fractal stuff/Fractal.py
+Ad Hoc/Personal/Fractal stuff/fractals.ipynb
+Ad Hoc/Personal/Fractal stuff/fractals.jl
+Ad Hoc/Personal/Fractal stuff/mandelbrot.gif
+Ad Hoc/Personal/Fractal stuff/render_env.yml
+Ad Hoc/Personal/Fractal stuff/test.jl
+Ad Hoc/Personal/fractals.ipynb
+Ad Hoc/Personal/mandelbrot.gif
+Ad Hoc/Personal/render_env.yml
+Ad Hoc/QBR_Customer_Quality_Plot.ipynb
+Ad Hoc/QBR_TimeSeries.ipynb
+Ad Hoc/SFSP.ipynb
+Ad Hoc/SQL-ScratchPaper.ipynb
+Ad Hoc/TWSQL.ipynb
+Ad Hoc/charts/IntradayReturns.png
+Ad Hoc/charts/intraday_returns.png
+Ad Hoc/charts/kpi_dashboard.html
+Ad Hoc/charts/kpi_dashboard_by_kpi.html
+Ad Hoc/charts/newplot.png
+Ad Hoc/charts_grouped/Acquisition Email Internal__ALL_KPIs.png
+Ad Hoc/charts_grouped/Affiliate__ALL_KPIs.png
+Ad Hoc/charts_grouped/Amazon - Overall__ALL_KPIs.png
+Ad Hoc/charts_grouped/Amazon - Search__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing Local SEM_PMAX _Omni Support___ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing Local__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing Non-Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing SEM Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing SEM Non-Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing Shopping_PMAX__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing Shopping__ALL_KPIs.png
+Ad Hoc/charts_grouped/Bing__ALL_KPIs.png
+Ad Hoc/charts_grouped/DraftKings Display__ALL_KPIs.png
+Ad Hoc/charts_grouped/GSTV OLV__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Local SEM_PMAX _Omni Support___ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Local _Indirect_Local___ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Non-Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google SEM Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google SEM Non-Brand__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Shopping - LIA _Indirect_Local___ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Shopping - PLA__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google Shopping_PMAX__ALL_KPIs.png
+Ad Hoc/charts_grouped/Google__ALL_KPIs.png
+Ad Hoc/charts_grouped/Local Google__ALL_KPIs.png
+Ad Hoc/charts_grouped/Local Simplifi__ALL_KPIs.png
+Ad Hoc/charts_grouped/Match Media Group Display__ALL_KPIs.png
+Ad Hoc/charts_grouped/Meta__ALL_KPIs.png
+Ad Hoc/charts_grouped/Reddit__ALL_KPIs.png
+Ad Hoc/charts_grouped/Snapchat__ALL_KPIs.png
+Ad Hoc/charts_grouped/The Volume OLV__ALL_KPIs.png
+Ad Hoc/charts_grouped/Tiktok__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk  CTV - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk  CTV - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk Audio - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk Audio - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk Display - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk Display - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Trade Desk OLV - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Vevo OLV__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo Audio - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo Audio - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo CTV - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo CTV - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo Display - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo Display - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo OLV - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/Yahoo OLV - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/YouTube CTV - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/YouTube OLV - Digital__ALL_KPIs.png
+Ad Hoc/charts_grouped/YouTube OLV - Indirect__ALL_KPIs.png
+Ad Hoc/charts_grouped/Zeta__ALL_KPIs.png
+Ad Hoc/charts_grouped/iHeart - Terrestrial Radio__ALL_KPIs.png
+Ad Hoc/charts_individual/Acquisition Email Internal__CTR.png
+Ad Hoc/charts_individual/Acquisition Email Internal__Conversion Rate.png
+Ad Hoc/charts_individual/Acquisition Email Internal__Conversions.png
+Ad Hoc/charts_individual/Acquisition Email Internal__Open Rate.png
+Ad Hoc/charts_individual/Affiliate__CPA.png
+Ad Hoc/charts_individual/Affiliate__CPC.png
+Ad Hoc/charts_individual/Affiliate__GAs.png
+Ad Hoc/charts_individual/Amazon - Overall__CPGA.png
+Ad Hoc/charts_individual/Amazon - Overall__CPO.png
+Ad Hoc/charts_individual/Amazon - Overall__GAs.png
+Ad Hoc/charts_individual/Amazon - Search__CPO.png
+Ad Hoc/charts_individual/Bing Brand__CPO.png
+Ad Hoc/charts_individual/Bing Local SEM_PMAX _Omni Support___CPGA.png
+Ad Hoc/charts_individual/Bing Local__Cost per Store Page View.png
+Ad Hoc/charts_individual/Bing Non-Brand__CPO.png
+Ad Hoc/charts_individual/Bing SEM Brand__CPGA.png
+Ad Hoc/charts_individual/Bing SEM Non-Brand__CPGA.png
+Ad Hoc/charts_individual/Bing Shopping_PMAX__CPGA.png
+Ad Hoc/charts_individual/Bing Shopping__CPO.png
+Ad Hoc/charts_individual/Bing__CPGA.png
+Ad Hoc/charts_individual/Bing__CPO.png
+Ad Hoc/charts_individual/Bing__iCPGA.png
+Ad Hoc/charts_individual/DraftKings Display__CPM.png
+Ad Hoc/charts_individual/GSTV OLV__CPVV.png
+Ad Hoc/charts_individual/Google Brand__CPO.png
+Ad Hoc/charts_individual/Google Local SEM_PMAX _Omni Support___CPGA.png
+Ad Hoc/charts_individual/Google Local _Indirect_Local___Cost per Direction.png
+Ad Hoc/charts_individual/Google Non-Brand__CPO.png
+Ad Hoc/charts_individual/Google SEM Brand__CPGA.png
+Ad Hoc/charts_individual/Google SEM Non-Brand__CPGA.png
+Ad Hoc/charts_individual/Google Shopping - LIA _Indirect_Local___Cost per Direction.png
+Ad Hoc/charts_individual/Google Shopping - PLA__CPO.png
+Ad Hoc/charts_individual/Google Shopping_PMAX__CPGA.png
+Ad Hoc/charts_individual/Google__CPGA.png
+Ad Hoc/charts_individual/Google__CPO.png
+Ad Hoc/charts_individual/Google__iCPGA.png
+Ad Hoc/charts_individual/Local Google__CPGA.png
+Ad Hoc/charts_individual/Local Google__CTR.png
+Ad Hoc/charts_individual/Local Google__Clicks.png
+Ad Hoc/charts_individual/Local Google__Cost Per Store Visit.png
+Ad Hoc/charts_individual/Local Google__Engagement _Calls_Directions_.png
+Ad Hoc/charts_individual/Local Google__GAs.png
+Ad Hoc/charts_individual/Local Google__Impressions.png
+Ad Hoc/charts_individual/Local Google__Spend.png
+Ad Hoc/charts_individual/Local Google__Store Visits.png
+Ad Hoc/charts_individual/Local Simplifi__CTR.png
+Ad Hoc/charts_individual/Local Simplifi__Clicks.png
+Ad Hoc/charts_individual/Local Simplifi__Cost Per Store Visit.png
+Ad Hoc/charts_individual/Local Simplifi__Impressions.png
+Ad Hoc/charts_individual/Local Simplifi__Spend.png
+Ad Hoc/charts_individual/Local Simplifi__Store Visits.png
+Ad Hoc/charts_individual/Match Media Group Display__CPM.png
+Ad Hoc/charts_individual/Meta__CPO.png
+Ad Hoc/charts_individual/Meta__CPQSS.png
+Ad Hoc/charts_individual/Meta__CPVV.png
+Ad Hoc/charts_individual/Reddit__CPQSS.png
+Ad Hoc/charts_individual/Reddit__CPVV.png
+Ad Hoc/charts_individual/Snapchat__CPO.png
+Ad Hoc/charts_individual/Snapchat__CPQSS.png
+Ad Hoc/charts_individual/Snapchat__CPVV.png
+Ad Hoc/charts_individual/The Volume OLV__CPVV.png
+Ad Hoc/charts_individual/Tiktok__CPVV.png
+Ad Hoc/charts_individual/Trade Desk  CTV - Digital__Cost per digital Purchase .png
+Ad Hoc/charts_individual/Trade Desk  CTV - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/Trade Desk Audio - Digital__Cost per digital Purchase .png
+Ad Hoc/charts_individual/Trade Desk Audio - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/Trade Desk Display - Digital__Cost per digital Purchase .png
+Ad Hoc/charts_individual/Trade Desk Display - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/Trade Desk OLV - Digital__Cost per digital Purchase .png
+Ad Hoc/charts_individual/Vevo OLV__CPVV.png
+Ad Hoc/charts_individual/Yahoo Audio - Digital__CPQSV.png
+Ad Hoc/charts_individual/Yahoo Audio - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/Yahoo CTV - Digital__CPQSV.png
+Ad Hoc/charts_individual/Yahoo CTV - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/Yahoo Display - Digital__CPQSV.png
+Ad Hoc/charts_individual/Yahoo Display - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/Yahoo OLV - Digital__CPQSV.png
+Ad Hoc/charts_individual/Yahoo OLV - Indirect__Cost per offline Purchase .png
+Ad Hoc/charts_individual/YouTube CTV - Digital__CPVV.png
+Ad Hoc/charts_individual/YouTube OLV - Digital__CPO.png
+Ad Hoc/charts_individual/YouTube OLV - Digital__CPQSV.png
+Ad Hoc/charts_individual/YouTube OLV - Digital__CPVV.png
+Ad Hoc/charts_individual/YouTube OLV - Digital__Cost per Add To Cart.png
+Ad Hoc/charts_individual/YouTube OLV - Indirect__Cost Per Store Visit.png
+Ad Hoc/charts_individual/Zeta__CPGA.png
+Ad Hoc/charts_individual/Zeta__CPIC.png
+Ad Hoc/charts_individual/Zeta__Conversion Rate.png
+Ad Hoc/charts_individual/Zeta__Conversions.png
+Ad Hoc/charts_individual/Zeta__ECR.png
+Ad Hoc/charts_individual/Zeta__IC.png
+Ad Hoc/charts_individual/Zeta__Open Rate.png
+Ad Hoc/charts_individual/iHeart - Terrestrial Radio__CPM.png
+AlgoTrade/README.md
+AlgoTrade/SPY_MA_Arb.ipynb
+AlgoTrade/requirements.txt
+FunctionalEstimation/Boost_Media_Tables.xlsx
+FunctionalEstimation/Local_snowflake_pull.ipynb
+FunctionalEstimation/MonstersSampleCode.ipynb
+FunctionalEstimation/OOH,DTR.ipynb
+FunctionalEstimation/OutOfSampleViz.py
+FunctionalEstimation/PreProcessing.py
+FunctionalEstimation/QBR_Plots.ipynb
+FunctionalEstimation/README.md
+FunctionalEstimation/analysis.ipynb
+FunctionalEstimation/data/2H2024_Marketing_Long.csv
+FunctionalEstimation/data/Boost_Media_Tables.xlsx
+FunctionalEstimation/data/CPIAUCSL.csv
+FunctionalEstimation/data/Clean/Q12025.csv
+FunctionalEstimation/data/Clean/df_export.feather
+FunctionalEstimation/data/Clean/mkt_2h_2024.csv
+FunctionalEstimation/data/DS_Door.csv
+FunctionalEstimation/data/Fonts/Montserrat-SemiBold.ttf
+FunctionalEstimation/data/Q12025.csv
+FunctionalEstimation/data/processed/Q12025.csv
+FunctionalEstimation/data/processed/df_export.feather
+FunctionalEstimation/data/processed/mkt_2h_2024.csv
+FunctionalEstimation/data/raw/2H2024_Marketing_Long.csv
+FunctionalEstimation/data/raw/CPIAUCSL.csv
+FunctionalEstimation/data/raw/DS_Door.csv
+FunctionalEstimation/data/raw/MarketMatch.csv
+FunctionalEstimation/data/raw/Spend by DMA.csv
+FunctionalEstimation/data/raw/Spend by DMA_LF.csv
+FunctionalEstimation/data/regional_rent_cpi_fred.xlsx
+FunctionalEstimation/data/rents.csv
+FunctionalEstimation/data/~$Boost_Media_Tables.xlsx
+FunctionalEstimation/data_preprocessing.py
+FunctionalEstimation/econML_media.ipynb
+FunctionalEstimation/environment.yml
+FunctionalEstimation/final_remaining_address_issues.csv
+FunctionalEstimation/mlp_tuned.pkl
+FunctionalEstimation/notebooks/Local Indirect Uplift/Competitive QBR.ipynb
+FunctionalEstimation/notebooks/Local Indirect Uplift/deprecated_snippets.ipynb
+FunctionalEstimation/notebooks/Local Indirect Uplift/snowflake_connect.ipynb
+FunctionalEstimation/notebooks/Local Indirect Uplift/snowflake_env.yml
+FunctionalEstimation/notebooks/Media Modeling/OOH,DTR.ipynb
+FunctionalEstimation/notebooks/Media Modeling/analysis.ipynb
+FunctionalEstimation/notebooks/Media Modeling/econML_media.ipynb
+FunctionalEstimation/notebooks/Media Modeling/econml-metal-env.yml
+FunctionalEstimation/notebooks/Media Modeling/econml_env.yml
+FunctionalEstimation/notebooks/Media Modeling/econml_env_installed.yml
+FunctionalEstimation/notebooks/Media Modeling/metaltest.ipynb
+FunctionalEstimation/notebooks/OOH,DTR.ipynb
+FunctionalEstimation/notebooks/analysis.ipynb
+FunctionalEstimation/notebooks/econML_media.ipynb
+FunctionalEstimation/notebooks/snowflake_connect.ipynb
+FunctionalEstimation/oos_static.py
+FunctionalEstimation/out_of_sample_prediction_error_demo.html
+FunctionalEstimation/out_of_sample_viz.html
+FunctionalEstimation/out_of_sample_viz_static.html
+FunctionalEstimation/outputs/20250509_123542_9q5E3D/checkpoint.pkl
+FunctionalEstimation/outputs/20250509_123542_9q5E3D/hall_of_fame.csv
+FunctionalEstimation/outputs/20250509_123542_9q5E3D/hall_of_fame.csv.bak
+FunctionalEstimation/outputs/20250519_113941_9Fy5cE/checkpoint.pkl
+FunctionalEstimation/outputs/20250519_113941_9Fy5cE/hall_of_fame.csv
+FunctionalEstimation/outputs/20250519_113941_9Fy5cE/hall_of_fame.csv.bak
+FunctionalEstimation/outputs/20250522_113634_fDi1pR/checkpoint.pkl
+FunctionalEstimation/outputs/20250522_113634_fDi1pR/hall_of_fame.csv
+FunctionalEstimation/outputs/20250522_113634_fDi1pR/hall_of_fame.csv.bak
+FunctionalEstimation/outputs/20250618_144844_4zsO6T/checkpoint.pkl
+FunctionalEstimation/outputs/20250618_144844_4zsO6T/hall_of_fame.csv
+FunctionalEstimation/outputs/20250618_144844_4zsO6T/hall_of_fame.csv.bak
+FunctionalEstimation/outputs/out_of_sample_viz_static.html
+FunctionalEstimation/regional_rent_cpi_fred.xlsx
+FunctionalEstimation/rents.csv
+FunctionalEstimation/requirements.txt
+FunctionalEstimation/snowflake_connect.ipynb
+FunctionalEstimation/src/PreProcessing.py
+FunctionalEstimation/src/data_preprocessing.py
+FunctionalEstimation/~$Boost_Media_Tables.xlsx
+Local Uplift Modeling/Analysis.ipynb
+Local Uplift Modeling/DataProcessing.ipynb
+Local Uplift Modeling/LocalUpliftV2.ipynb
+Local Uplift Modeling/ModelRun.ipynb
+Local Uplift Modeling/clean_local_marketing.py
+Local Uplift Modeling/clean_opensignal.py
+Local Uplift Modeling/data/data_debug.ipynb
+Local Uplift Modeling/data/raw/clean_data.py.old
+Local Uplift Modeling/data/raw/market_ref
+Local Uplift Modeling/data_cleaner.py
+Local Uplift Modeling/data_loader.py
+Local Uplift Modeling/macro_tools.ipynb
+Local Uplift Modeling/macro_tools.py
+Local Uplift Modeling/market_map_ga_to_bst.py
+Local Uplift Modeling/market_map_os_to_bst.py
+Local Uplift Modeling/merge_data.py
+Local Uplift Modeling/read_snowflake_data.py
+Local Uplift Modeling/reverse_causality_controls.py
+Media Measurement/DataProcessing.ipynb
+Media Measurement/ModelRun.ipynb
+Media Measurement/data/data_debug.ipynb
+Media Measurement/data/raw/data_debug.ipynb
+Media Measurement/modules/__init__.py
+Media Measurement/modules/data_cleaner.py
+Media Measurement/modules/data_debug.ipynb
+Media Measurement/modules/macro_tools.ipynb
+Media Measurement/modules/market_map_ga_to_bst.py
+Media Measurement/modules/market_map_os_to_bst.py
+Media Measurement/modules/merge_data.py
+Media Measurement/modules/read_snowflake_data.py
+Media Measurement/modules/reverse_causality_controls.py
+Media Measurement/setup/conda-lock.yml
+Media Measurement/setup/environment.yml
+README.md
+blog-dev/MonstersSampleCode.ipynb
+blog-dev/OutOfSampleViz.py
+blog-dev/QBR_Plots.ipynb
+blog-dev/README.md
+blog-dev/oos_static.py
+blog-dev/out_of_sample_viz.html
+blog-dev/regional_rent_cpi_fred.xlsx
+blog-dev/rents.csv
+blog-dev/requirements.txt
+environment.yml

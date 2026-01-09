@@ -1,0 +1,60 @@
+# .gitignore
+
+# --- Python & Venvs ---
+venv/
+.venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Catch the massive Lib folder seen in history (if not in a venv)
+Lib/
+API_Calls/APICalls/Lib/
+
+# --- Environment Variables ---
+.env
+*.env
+
+# --- Specific User Directories ---
+**/venvFunctionalFormEstimation/
+**/venvAPICalls/
+
+# Redundant but safe specific paths
+API_Calls/venvAPICalls/
+FunctionalEstimation/venvFunctionalFormEstimation/
+
+# --- Specific Files ---
+Ad Hoc/SFSP.ipynb
+Ad Hoc/SQL-ScratchPaper.ipynb
+
+# --- Jupyter ---
+*.ipynb_checkpoints/
+
+# --- IDE & Settings ---
+.vscode/
+*.code-workspace
+
+# --- OS & Office ---
+.DS_Store
+Thumbs.db
+~$*.xlsx
+
+# --- Data ---
+*.csv
+*.feather
+*.parquet
+*.xlsx
+*.xls
+*.pkl
+*.bak
+
+# --- Media ---
+
+#*.png
+#*.jpg
+*.ttf
+*.otf
+*.woff
+*.woff2

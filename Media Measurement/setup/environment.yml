@@ -1,0 +1,23 @@
+name: env_snowflake_test
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - missingno
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pyarrow
+  - pymc
+  - python-levenshtein
+  - python=3.10
+  - scikit-learn
+  - seaborn
+  - snowflake-snowpark-python
+  - statsmodels
+  - thefuzz
+  - pandas-datareader
+  - snowflake-ml-python
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/env_snowflake_test

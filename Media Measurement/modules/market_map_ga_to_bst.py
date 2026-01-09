@@ -1,0 +1,25 @@
+def get_ga_market_mapping():    
+    return {
+        'Alaska': 'Alaska', 
+        'Central Jersey': 'New York City',
+        'East Kentucky': 'Kentucky',
+        'Long Island': 'New York City',
+        'MT / WY': 'Montana',
+        'Milwaukee': 'Wisconsin',
+        'None': 'None',
+        'North LA': 'LA Metro',
+        'Northern Connecticut': 'Connecticut',
+        'Northern Jersey': 'New York City',
+        'Orange County': 'LA Metro',
+        'PR / VI': 'None',
+        'Pending': 'None',
+        'SF BAY': 'SF Bay Area',
+        'SF Bay': 'SF Bay Area',
+        'South Bay': 'LA Metro',
+        'Southern Connecticut': 'Connecticut',
+        'Southern Jersey': 'Philadelphia Metro',
+        'Southern Virginia': 'Virginia',
+        'Upper Central Valley': 'Central Valley',
+        'West Kentucky': 'Kentucky',
+        'tampa': 'Tampa'
+    }

@@ -1,0 +1,10 @@
+name: rendering_env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - plotly
+  - pyqtgraph
+  - pandas
+  - matplotlib
+prefix: /home/ben/miniforge3/envs/rendering_env
