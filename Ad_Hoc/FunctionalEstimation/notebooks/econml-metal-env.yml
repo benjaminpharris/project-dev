@@ -1,0 +1,28 @@
+# A robust, pure conda-forge environment for EconML with PyTorch on Apple Silicon
+name: econml-metal
+
+# Using conda-forge exclusively for maximum compatibility
+channels:
+  - conda-forge
+
+dependencies:
+  # --- Core Python Version ---
+  - python=3.10
+
+  # --- PyTorch for Apple Silicon (from conda-forge) ---
+  # This is the key change. Let conda handle the GPU-enabled build.
+  - pytorch
+  - torchvision
+  - torchaudio
+  
+  # --- Key Causal Inference & ML Libraries ---
+  - econml
+  - scikit-learn
+  - shap
+  - numpy
+  - pandas
+  - matplotlib
+
+  # --- Jupyter Environment ---
+  - jupyterlab
+  - ipywidgets
