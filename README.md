@@ -1,11 +1,11 @@
-# 😓 What is this Place? 
+# 📜 The Gist 
 
 ## 🤖 project-dev
 
 ---
 
 > "Don't run any code you don't understand"
-    - *Nietzsche*
+    - *Fireship*
 
 ---
 
@@ -32,11 +32,11 @@
 | [`Media Measurement/`](./Media%20Measurement) | MMM + Extended ML implementations on lift modeling |
 | [`blog-dev/`](./blog-dev) | I thought I was going to write a blog. Should probably delete this... |
 | [`Ad_Hoc/`](./Ad_Hoc) | One-off analyses, exploratory work, scratch space |
-
+| [`dnm_data/`](./dnm_data) | Project I'm helping Sarah with
 ## 🎨 Highlights
 
 > Note: inline figures and plots are gitignored. The notebooks linked above contain code; for rendered output, see [my profile](https://github.com/benjaminpharris) or reach out.
 
-## ⚙️ Stack
-Python · R · Jupyter · pandas · NumPy · scikit · Pytorch · LaTeX · Matplot · Plotly · Streamlit (in theory...)
+## ⚙️ Main Stuff
+· Python · R · Jupyter · pandas · NumPy · scikit · Torch · LaTeX · Matplot · Altair · 
  
