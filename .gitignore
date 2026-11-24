@@ -9,6 +9,7 @@ __pycache__/
 *.pyo
 *.pyd
 
+
 # Catch the massive Lib folder seen in history (if not in a venv)
 Lib/
 API_Calls/APICalls/Lib/
@@ -49,6 +50,8 @@ Thumbs.db
 *.xls
 *.pkl
 *.bak
+*.dat
+*.xml
 
 # --- Media ---
 
